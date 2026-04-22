@@ -21,9 +21,6 @@
 
 ### 1. Environment Setup
 
-Isolating dependencies is a best practice in Software Engineering.  
-It is highly recommended to use a virtual environment:
-
 ```bash
 # Create the environment
 python -m venv .venv
