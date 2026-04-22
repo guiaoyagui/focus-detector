@@ -1,0 +1,10 @@
+# --- Core de Visão Computacional ---
+mediapipe==0.10.33
+opencv-python
+numpy>=1.23.5,<2.0.0  # Recomendado manter abaixo da 2.0 para evitar conflitos com MediaPipe 0.10
+
+# --- Interface e Manipulação de Imagem ---
+Pillow
+
+# --- Reprodução de Áudio ---
+pygame
